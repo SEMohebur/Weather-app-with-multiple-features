@@ -1,0 +1,15 @@
+.renderDescColor {
+  background-color: rgb(98, 177, 7);
+}
+
+.secendaryCustomColor {
+  background-color: rgba(7, 10, 49, 0.329);
+}
+
+.extraSmall {
+  font-size: 10px;
+}
+
+.navbarColor {
+  background-color: rgba(33, 28, 109, 0.733);
+}
